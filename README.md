@@ -12,7 +12,7 @@ It also lets you send data collected through Ajax POST to any remote server.
 
 
 ## Live Preview
-https://nachoaguirre.github.io/framework7-plugin-feedback/
+https://nachoaguirre.github.io/framework7-feedback-plugin/
 
 
 ## Installation
