@@ -97,7 +97,7 @@ feedback: {
 		param_rating: 'rating',
 		param_prompt: 'answer',
 	},
-	}
+}
 ```
 
 
@@ -136,8 +136,7 @@ feedback: {
 			<td>string</td>
 			<td>viewedFeedback</td>
 			<td>LocalStorage key name set when user view feedback, used with show_once parameter</td>
-		</tr>
-			
+		</tr>	
 		<tr>
 			<td>dialog &raquo;<br /><b>title</b></td>
 			<td>string</td>
@@ -180,7 +179,6 @@ feedback: {
 			<td>rating</td>
 			<td>Name of the key sent in POST to URL. Available only if post_ajax is true. </td>
 		</tr>
-		
 		<tr>
 			<td>options &raquo;<br /><b>option_1</b></td>
 			<td>string</td>
@@ -211,7 +209,6 @@ feedback: {
 			<td>😍</td>
 			<td>Content to show for the option with value 5</td>
 		</tr>
-		
 		<tr>
 			<td>notification &raquo;<br /><b>show</b></td>
 			<td>boolean</td>
@@ -248,7 +245,6 @@ feedback: {
 			<td>Click to receive it</td>
 			<td>Notification inner text</td>
 		</tr>
-		
 		<tr>
 			<td>prompt &raquo;<br /><b>show</b></td>
 			<td>boolean</td>
@@ -291,7 +287,6 @@ feedback: {
 			<td>true</td>
 			<td>Include the rating value set by the user on the ajax post? The value is sent as 'rating' post name.</td>
 		</tr>
-		
 		<tr>
 			<td>gtag &raquo;<br /><b>send</b></td>
 			<td>boolean</td>
@@ -322,7 +317,6 @@ feedback: {
 			<td>answer</td>
 			<td>Name of the parameter of the text sent by user in prompt</td>
 		</tr>
-		
 	</tbody>
 </table>
 
